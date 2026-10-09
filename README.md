@@ -100,7 +100,3 @@ The application opens in your web browser.
 ## Conclusion
 
 Qwen Prompting Techniques provides a practical way to learn and experiment with prompt engineering. It demonstrates how structured prompts can help guide language models to produce useful responses for different tasks.
-
-## Author
-
-Developed as an educational project to explore Large Language Models and Prompt Engineering.
